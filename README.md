@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/rahultipole/VIratkohli/_apis/build/status/RaHuZzZ369.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rahultipole/VIratkohli/_build/latest?definitionId=12&branchName=master)
+
+
+
 [![Build Status](https://dev.azure.com/rahultipole/throughportal/_apis/build/status/RaHuZzZ369.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/rahultipole/throughportal/_build/latest?definitionId=5&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
